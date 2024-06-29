@@ -1,12 +1,12 @@
 {   
     "bot1": {
-        "source": "https://github.com/<GitHub Username>/<repo1>.git",
-        "branch": "your-branch-name",
+        "source": "https://github.com/Demerbot/FILE-STORE-FREE",
+        "branch": "railway",
         "env": {
-            "TOKEN": "",
+            "TOKEN": "7440102827:AAFwf6A4e1rl7iVgVDkDQex5HGSOB6KmUWE",
             "TOKEN2": ""
         },
-        "run": ""
+        "run": "bot.py"
     },
     "bot2": {
         "source": "https://github.com/<GitHub Username>/<repo2>.git",
